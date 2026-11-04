@@ -1,4 +1,4 @@
-// 복잡한 통신은 serial-helper.js가 처리합니다.
+  // 복잡한 통신은 serial-helper.js가 처리합니다.
 let serial, connectButton;
 
 let handPose, video, slider;
